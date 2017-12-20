@@ -1,0 +1,25 @@
+{
+  "name": "btcnpm",
+  "version": "1.0.0",
+  "description": "Bitcoin payment feature for InfusionSoft's CheckOut page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidzambo/bitcoin-payment-for-infusionsoft-checkout-page.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "payment",
+    "infusionsoft",
+    "checkout"
+  ],
+  "author": "David Zambo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidzambo/bitcoin-payment-for-infusionsoft-checkout-page/issues"
+  },
+  "homepage": "https://github.com/davidzambo/bitcoin-payment-for-infusionsoft-checkout-page#readme"
+}
